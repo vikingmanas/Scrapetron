@@ -2,5 +2,5 @@ selenium
 beautifulsoup4
 celery
 redis
-sqlite3; sys_platform == 'win32'
+
 
